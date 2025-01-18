@@ -1,4 +1,5 @@
 using IntroClase_POO.Clases;
+using IntroClase_POO.Controladores;
 using System.ComponentModel;
 
 namespace IntroClase_POO
@@ -15,18 +16,42 @@ namespace IntroClase_POO
 
         private void FrmMain_Load(object sender, EventArgs e)
         {
-            // Llamado a la función que carga los datos en la tabla
-            ShowStudents();
-            ShowTeachers();
-            var estudiante = new Students("Ing.","Primero");
-            dynamic est = new Students();
+            //// Llamado a la función que carga los datos en la tabla
+            //ShowStudents();
+            //ShowTeachers();
+            //var estudiante = new Students("Ing.","Primero");
+            //dynamic est = new Students();
 
-            //  Polimorfismo:
+            ////  Polimorfismo:
 
-            People studiant = new Students() { Nombres = "Alvino", Apellidos="Corea", Carnet="UAN-12342-12T" };
+            //People studiant = new Students() { Nombres = "Alvino", Apellidos="Corea", Carnet="UAN-12342-12T" };
 
 
-            MessageBox.Show(studiant.ToString());
+            //MessageBox.Show(studiant.ToString
+            //
+
+            CStudents estudiante = new CStudents();
+            string add = estudiante.Add();
+            try
+            {
+                if (Convert.ToInt32(add) == 1)
+                {
+                    MessageBox.Show("Estudiante Agregado con éxito.");
+                }
+                else
+                {
+                    MessageBox.Show(add);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error De Logica", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            // Implementar logica para los metodos Edit,Show y Delete de la clase CStudents
+            // escriba un metodo en la clase del formulario en donde se generen excepciones
+            // al llamar los metodos de la clase CStudents. 
+            // LLame los metodos desde el Load del Formulario 'FrmMain_Load'
 
         }
         private BindingList<Students> students = new BindingList<Students>();

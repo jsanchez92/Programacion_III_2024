@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|c:\\users\\usuario\\source\\repos\\programacion iii\\introclase_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|c:\\users\\usuario\\source\\repos\\programacion iii\\introclase_poo\\controladores\\cstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|solutionrelative:controladores\\cstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|c:\\users\\usuario\\source\\repos\\programacion iii\\introclase_poo\\clases\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|solutionrelative:clases\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|c:\\users\\usuario\\source\\repos\\programacion iii\\introclase_poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|c:\\users\\usuario\\source\\repos\\programacion iii\\introclase_poo\\controladores\\ibuider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|solutionrelative:controladores\\ibuider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15E61B91-6CF2-4F3E-9148-7B3E0386F4D0}|IntroClase_POO.csproj|C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,24 +38,54 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CStudents.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\CStudents.cs",
+              "RelativeDocumentMoniker": "Controladores\\CStudents.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\CStudents.cs",
+              "RelativeToolTip": "Controladores\\CStudents.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:15:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuider.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\IBuider.cs",
+              "RelativeDocumentMoniker": "Controladores\\IBuider.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\IBuider.cs",
+              "RelativeToolTip": "Controladores\\IBuider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:09:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Students.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Clases\\Students.cs",
               "RelativeDocumentMoniker": "Clases\\Students.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Clases\\Students.cs",
               "RelativeToolTip": "Clases\\Students.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAD4vxkAAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T15:05:30.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CTeachers.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\CTeachers.cs",
               "RelativeDocumentMoniker": "Controladores\\CTeachers.cs",
@@ -55,16 +93,11 @@
               "RelativeToolTip": "Controladores\\CTeachers.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:57:56.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-01-11T14:57:56.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IProyectoX.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Controladores\\IProyectoX.cs",
               "RelativeDocumentMoniker": "Controladores\\IProyectoX.cs",
@@ -72,33 +105,31 @@
               "RelativeToolTip": "Controladores\\IProyectoX.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:48:27.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T14:48:27.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxUAAAAmAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T14:48:57.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Programacion III\\IntroClase_POO\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:47:25.521Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T14:47:25.521Z"
             }
           ]
         }

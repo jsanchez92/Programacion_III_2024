@@ -8,13 +8,35 @@ namespace IntroClase_POO.Controladores
 {
     public class CStudents : IBuider
     {
+        /// <summary>
+        /// Metodo para Agregar un nuevo estudiante
+        /// </summary>
+        /// <returns></returns>
         public string Add()
         {
-            throw new NotImplementedException();
+            string respuesta = "";
+            try
+            {
+                respuesta = "Ok";
+                //throw new Exception("Esto es una excepción de prueba.");
+            }
+            catch (Exception ex)
+            {
+                respuesta =ex.Message+"\n\n"+ ex.StackTrace;// MessageBox.Show(ex.Message);
+            }
+            return respuesta;
         }
 
         public string Delete(int Id)
         {
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+                throw;
+            }
             throw new NotImplementedException();
         }
 
